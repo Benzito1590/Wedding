@@ -2,4 +2,4 @@
 
 This is a wedding website
 
-URL - 
+URL - https://benzito1590.github.io/wedding/
